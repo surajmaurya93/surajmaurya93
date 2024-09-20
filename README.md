@@ -1,6 +1,5 @@
 <div id="header" align="center">
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3Nyc25ycG12cGJzb3BrcjFseTQyanNzbW1mdnJhZzJmNGpvaGs3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif"  width="400"/> 
-</div>
+<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0XlWQdSfXoVTBQGNvlnf060Nkxdp47TIMAQ&usqp=CAU">
 <div align="center"> 
     <h1>  
         <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=25&duration=3200&color=4FC3F7&center=true&vCenter=true&width=450&lines=Hey..+I'm+Suraj+Maurya;Welcome+to+my+Github+profile!;Passionate+about+Coding!;Exploring+new+technologies!;Let's+code+together!;" alt="Typing SVG"/> 
