@@ -31,7 +31,7 @@ Hello, coders!🖐 Welcome to my GitHub profile! Feel free to reach out to me on
 <h2>🛠Skills</h2>
 <p>
 <a href="https://skillicons.dev">
-    <img margin="8px" src="https://skillicons.dev/icons?i=html,css,js,tailwindcss,react,cpp,python" />
+    <img margin="8px" src="https://skillicons.dev/icons?i=html,css,js,tailwindcss,react,cpp,python,figma" />
   </a>
 </p>
 <br>
