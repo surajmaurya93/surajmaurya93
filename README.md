@@ -11,8 +11,6 @@
 Hello, coders!🖐 Welcome to my GitHub profile! Feel free to reach out to me on the following platforms: <br> <br>
 <p align="center">
 <a href="https://www.linkedin.com/in/suraj-maurya93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Suraj Maurya" height="40" width="50" /></a>
-<a href="https://outube/HxgnzT8Tj9g?si=lFjZW2PFS90HFe6B" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YT PODCAST" height="40" width="50"/></a>
-<a href="https://www.naukri.com/code360/profile/Surajmaurya" target="blank"><img align="center" src="https://manu-karenite.github.io/portfolio/img/cn.png" alt="coding ninjas" height="40" width="50" /></a>
          
 <h2 >👩‍💻About me : </h2>
  🌿 Hello, I'm Suraj Maurya, currently a 3rd Year BCA student at Rajasthan University.
