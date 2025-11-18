@@ -13,9 +13,6 @@ Hello, coders!🖐 Welcome to my GitHub profile! Feel free to reach out to me on
 <a href="https://www.linkedin.com/in/suraj-maurya93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Suraj Maurya" height="40" width="50" /></a>
 <a href="https://outube/HxgnzT8Tj9g?si=lFjZW2PFS90HFe6B" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YT PODCAST" height="40" width="50"/></a>
 <a href="https://www.naukri.com/code360/profile/Surajmaurya" target="blank"><img align="center" src="https://manu-karenite.github.io/portfolio/img/cn.png" alt="coding ninjas" height="40" width="50" /></a>
-<a href="https://leetcode.com/u/Suraj_Maurya93" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/leetcode-3628885-3030025.png" alt="leetcode" height="40" width="50" /></a>
-<a href="https://www.yutube.com/@neeru_05" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/575/original/youtube-logo-youtube-icon-transparent-free-png.png" alt="yt" height="63" width="60" /></a>
-</p>
          
 <h2 >👩‍💻About me : </h2>
  🌿 Hello, I'm Suraj Maurya, currently a 3rd Year BCA student at Rajasthan University.
